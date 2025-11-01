@@ -1,0 +1,12 @@
+tweepy
+pandas
+numpy
+matplotlib
+seaborn
+nltk
+textblob
+wordcloud
+streamlit
+plotly
+gensim
+python-dotenv
